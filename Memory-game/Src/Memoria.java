@@ -1,10 +1,5 @@
 //******************************************************************************************************
-// Nombre y # de carnet: Alvaro Arriola 09245   
-//                                     Pablo Contreras 09251
-//			       Pablo Galvez 09091
-// Seccion 20
-// Programa: Memoria.java
-// Descripcion: Clase que contiene el metodo main.
+// Clase que contiene el metodo main.
 //*******************************************************************************************************
 
 // Importacion de los paquetes necesarios:
