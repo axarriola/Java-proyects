@@ -1,9 +1,5 @@
 //**************************************************
-// Nombre: Alvaro Arriola          Carnet: 09245
-//               Pablo Contreras                    09251
-// Seccion 20
-//
-// Nombre programa: Hidato.java
+// Hidato.java
 // Descripcion: Driver. Contiene el metodo
 // e inicia el juego mostrando un JFrame
 // con un objeto PanelInstruccionesHidato.
