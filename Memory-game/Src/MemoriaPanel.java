@@ -1,10 +1,5 @@
 //******************************************************************************************************
-// Nombre y # de carnet: Alvaro Arriola 09245   
-//                                     Pablo Contreras 09251
-//			       Pablo Galvez 09091
-// Seccion 20
-// Programa: MemoriaPanel.java
-// Descripcion: Esta clase contiene los componentes que se agregaran a la ventana del
+// Esta clase contiene los componentes que se agregaran a la ventana del
 // juego, segun el nivel seleccionado.
 //*******************************************************************************************************
 
