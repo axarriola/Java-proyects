@@ -1,7 +1,5 @@
 //**************************************************
-// Nombre: Alvaro Arriola          Carnet: 09245
-//               Pablo Contreras                    09251
-// Seccion 20
+// Nombre: Alvaro Arriola
 //
 // Nombre programa: Tableros
 // Descripcion: Interfaz que contiene constantes
