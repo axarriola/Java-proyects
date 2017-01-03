@@ -1,10 +1,5 @@
 //**************************************************
-// Nombre: Alvaro Arriola          Carnet: 09245
-//               Pablo Contreras                    09251
-// Seccion 20
-//
-// Nombre programa: PanelJuegoHidato.java
-// Descripcion: Derivada de la clase PanelHidato
+// Derivada de la clase PanelHidato
 // Utiliza las clases Boton y BotonDeAyuda,
 // los metodos de su superclase inmediata
 // y las constantes de la interfaz Tableros
