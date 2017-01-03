@@ -1,10 +1,5 @@
 //******************************************************************************************************
-// Nombre y # de carnet: Alvaro Arriola 09245   
-//                                     Pablo Contreras 09251
-//			       Pablo Galvez 09091
-// Seccion 20
-// Programa: PanelNivel.java
-// Descripcion: Representa al objeto PanelNivel con sus componentes.
+// Representa al objeto PanelNivel con sus componentes.
 //*******************************************************************************************************
 
 // Importacion de los paquetes necesarios:
