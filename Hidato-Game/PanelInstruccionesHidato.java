@@ -1,10 +1,5 @@
 //**************************************************
-// Nombre: Alvaro Arriola          Carnet: 09245
-//               Pablo Contreras                    09251
-// Seccion 20
-//
-// Nombre programa: PanelInstruccionesHidato.java
-// Descripcion: Define al panel que contiene las 
+// Define al panel que contiene las 
 // instrucciones iniciales del juego. Subclase
 // de PanelHidato.
 //**************************************************
