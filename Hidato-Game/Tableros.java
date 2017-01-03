@@ -1,8 +1,5 @@
 //**************************************************
-// Nombre: Alvaro Arriola
-//
-// Nombre programa: Tableros
-// Descripcion: Interfaz que contiene constantes
+// Interfaz que contiene constantes
 // las cuales son matrizesque representan los
 // posicion de los numeros en algunos tableros,
 // y otras que contienen si cada posicion en 
