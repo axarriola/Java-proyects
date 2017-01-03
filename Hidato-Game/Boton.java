@@ -1,10 +1,5 @@
 //**************************************************
-// Nombre: Alvaro Arriola          Carnet: 09245
-//               Pablo Contreras                    09251
-// Seccion 20
-//
-// Nombre programa: Boton.java
-// Descripcion: Hereda los metodos de la clase
+// Hereda los metodos de la clase
 // JToggleButton. Representa un objeto boton
 // de un tablero de Hidato con los metodos
 // necesarios para realizar el juego.
