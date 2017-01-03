@@ -1,9 +1,5 @@
 //**************************************************
-// Nombre: Alvaro Arriola          Carnet: 09245
-//               Pablo Contreras                    09251
-// Seccion 20
-//
-// Nombre programa: PanelHidato.java
+// PanelHidato.java
 // Descripcion: Clase abstracta que contiene
 // metodos genericos para ser heredados a
 // a PanelInstruccionesHidato y PanelJuegoHidato.
