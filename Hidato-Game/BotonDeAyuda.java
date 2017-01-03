@@ -1,9 +1,5 @@
 //**************************************************
-// Nombre: Alvaro Arriola          Carnet: 09245
-//               Pablo Contreras                    09251
-// Seccion 20
-//
-// Nombre programa: BotonDeAyuda.java
+// BotonDeAyuda.java
 // Descripcion: Deriva de la clase Boton.
 // Representa los botones que se encuentran
 // fijos en un tablero de Hidato.
