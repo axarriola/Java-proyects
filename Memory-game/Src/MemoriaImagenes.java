@@ -1,10 +1,5 @@
 //******************************************************************************************************
-// Nombre y # de carnet: Alvaro Arriola 09245   
-//                                     Pablo Contreras 09251
-//			       Pablo Galvez 09091
-// Seccion 20
-// Programa: MemoriaImagenes.java
-// Descripcion: Define al objeto MemoriaImagenes, sus variables de instancia y sus metodos.
+// Define al objeto MemoriaImagenes, sus variables de instancia y sus metodos.
 // Esta clase representa las imagenes que se asignaran a los botones del objeto MemoriaPanel
 // y contiene metodos necesarios para poder llevar a cabo el juego.
 //*******************************************************************************************************
